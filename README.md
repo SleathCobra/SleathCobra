@@ -31,14 +31,9 @@ I am a university mathematics student navigating the intersection of formal logi
 
 ### 💻 The Learning Matrix
 
-```x86asm
-section .data
-    status db "Actively Learning & Sharing", 0
-
-section .text
-    global _start
-
-_start:
-    xor eax, eax       ; Step-by-step: Reverse Engineering Foundations
-    inc eax            ; Low-Level Software Development (C/C++, Rust)
-    mov ebx, 1         ; Applying Mathematical Logic to Code Analysis
+| Area of Study | Current Focus & Tooling |
+| --- | --- |
+| **Reverse Engineering** | Learning static analysis with Ghidra/IDA PRO/Binja & fundamental debugging with x64dbg/GDB. |
+| **Systems & Languages** | Exploring C, C++, and Rust with an emphasis on safe code architecture. |
+| **Mathematics** | Discrete math, linear algebra, and modular arithmetic applied to computer science. |
+| **Security Concepts** | Analyzing historical software vulnerabilities and standard defensive mitigations. |
