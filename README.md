@@ -1,8 +1,8 @@
+
 <p align="center">
   <img src="sleathbanner.png" alt="StealthCobra Cybersecurity Journey" width="100%">
 </p>
 
-# Hi there, I'm StealthCobra 👋 🐍
 
 <p align="center">
   <strong>🎓 Math Undergrad | 🔬 Low-level / Reverse Engineering | 💻 Open Source Contributor</strong>
