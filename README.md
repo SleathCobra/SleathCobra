@@ -36,6 +36,10 @@ section .data
     status db "Actively Learning & Sharing", 0
 
 section .text
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SleathCobra&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=SleathCobra&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SleathCobra&layout=compact&theme=gruvbox)
     global _start
 
 _start:
